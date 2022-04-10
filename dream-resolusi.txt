@@ -3,4 +3,4 @@ Retrif
 - Konsisten programming
 - Konsisten design
 - Kembangkan resource factory
-- retrif store
+- retrif kaos
